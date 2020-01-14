@@ -19,7 +19,7 @@ WebGL incl. reference resolution 960x600
 
 ### Visuals: 
 <div>
-<img src="./Screenshots/home-WebGL-movingBall-cs-millig" width="500">
+<img src="./Screenshots/home-WebGL-movingBall-cs-millig.jpg" width="500">
 </div>
 
 ### Necessary setup/execution steps: 
@@ -33,7 +33,7 @@ WebGL has to be installed
 100 %
 
 ### Limitations: 
-none
+WebGL
 
 ### Lessons Learned: 
 + Building a GUI
