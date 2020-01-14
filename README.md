@@ -18,23 +18,27 @@ Variation 2: the randomly chosen position is forced to be different, i.e. new po
 WebGL incl. reference resolution 960x600
 
 ### Visuals: 
-TODO
+<div>
+<img src="./Screenshots/home-WebGL-movingBall-cs-millig" width="500">
+</div>
 
 ### Necessary setup/execution steps: 
 WebGL has to be installed
 
 ### Third party material: 
-Ball https://www.freepngimg.com/png/10701-beach-ball-picture
-Template https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template 
++ Ball https://www.freepngimg.com/png/10701-beach-ball-picture
++ Template https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template 
 
 ### Project state: 
-TODO
+100 %
 
 ### Limitations: 
-TODO
+none
 
 ### Lessons Learned: 
-TODO
++ Building a GUI
++ Writing a Script with random numbers
++ Using Arrays in Scripts
 
 (Original ReadMe by smeerws - Updated by millig)
 
